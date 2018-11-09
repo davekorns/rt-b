@@ -54,7 +54,7 @@
             },
             "overlay": true,
             "overlayColor": "#151515",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.5"
           },
           "media": {
             "image": {
