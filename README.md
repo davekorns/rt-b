@@ -1,2 +1,2 @@
 # rt-b
-GitHub Pages
+ritic.org is closed
