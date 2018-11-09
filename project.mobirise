@@ -70,8 +70,8 @@
               "loop": false
             }
           },
-          "title": "<span style=\"font-weight: normal;\">ritic.org </span><br><span style=\"font-weight: normal;\">is </span><br><span style=\"font-weight: normal;\">Temporarily Closed</span><span style=\"font-weight: normal;\"><i><br></i></span>",
-          "text": "The Radical Islamic Terrorist Incident Chronology website is going through a major conversion and will be unavailable until further notice.",
+          "title": "<span style=\"font-weight: normal;\">ritic.org </span><br><span style=\"font-weight: normal;\">is c</span><span style=\"font-weight: normal;\">losed</span><span style=\"font-weight: normal;\"><i><br></i></span>",
+          "text": "<i><br></i><br><i>The Radical-Islamic Terrorist Incident Chronology website is going through a major conversion and will be unavailable until further notice.</i>",
           "buttons": "<a data-app-btn=\"true\" href=\"http://mobirise.com\" class=\"btn btn-primary\" role=\"button\">learn more</a>",
           "alias": "spacem/components",
           "_tags": [
